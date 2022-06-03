@@ -1,4 +1,5 @@
-![cryptofunda](https://user-images.githubusercontent.com/66665865/171907470-9a1e963f-0caf-4854-920f-2498205f3cc3.png)
+|![cryptofunda](https://user-images.githubusercontent.com/66665865/171907470-9a1e963f-0caf-4854-920f-2498205f3cc3.png)|
+| :--: |
 
 # CryptoFunda
 RShiny Dashboard for Backtesting Technical Indicators for Intraday Trading of Cryptocurrencies
